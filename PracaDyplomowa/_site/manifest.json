@@ -1,0 +1,392 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Users/adrii/Desktop/Projekt/PracaDyplomowa/PracaDyplomowa",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "0FPzBUWqjH2jvx6ujvHwgQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "giw17mk4oZKt+us36ln62w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "xVlQaX7Tk85omoiWv3O+Ag=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "KNYiCJPQPPZi/VgK44mQcQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PracaDyplomowa.About.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PracaDyplomowa.About.html",
+          "hash": "uq70Dsy7/AH7G6BNzO/xaw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PracaDyplomowa.BundleConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PracaDyplomowa.BundleConfig.html",
+          "hash": "7mqocPI1+aILdmDKJMKzMg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PracaDyplomowa.Global.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PracaDyplomowa.Global.html",
+          "hash": "7OJWXwtgFEtij1lF79l9rg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PracaDyplomowa.Interfejs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PracaDyplomowa.Interfejs.html",
+          "hash": "dWAZM63l3jS3XSi2cP8VXw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PracaDyplomowa.Interfejs2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PracaDyplomowa.Interfejs2.html",
+          "hash": "GI+p/fh/2YhggUrjsE1scg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PracaDyplomowa.Interpretacja.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PracaDyplomowa.Interpretacja.html",
+          "hash": "vjMRsfPWDj7isIuxyPIYpg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PracaDyplomowa.Ip.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PracaDyplomowa.Ip.html",
+          "hash": "RzL1hCg4ijaxx0cMh9VEeQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PracaDyplomowa.Ipv6Info.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PracaDyplomowa.Ipv6Info.html",
+          "hash": "4OLeiIKbbEOnKCvvH52w9g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PracaDyplomowa.Item.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PracaDyplomowa.Item.html",
+          "hash": "TiHxrW30nB9/t6x4cLX+pQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PracaDyplomowa.Item2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PracaDyplomowa.Item2.html",
+          "hash": "Zb7jhbh0R91JX9uwBPnUtQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PracaDyplomowa.Klaster.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PracaDyplomowa.Klaster.html",
+          "hash": "khLFK9hfzXH1tIbU1puHKA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PracaDyplomowa.Komenda.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PracaDyplomowa.Komenda.html",
+          "hash": "9BTM8BcO0kq8Zy0gd/AQNQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PracaDyplomowa.Konsola.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PracaDyplomowa.Konsola.html",
+          "hash": "MZYgOVpmKLUy9chIPmY7pw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PracaDyplomowa.Logowanie.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PracaDyplomowa.Logowanie.html",
+          "hash": "xS0oBV9S9qaSEViF2ZJcLA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PracaDyplomowa.RangeInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PracaDyplomowa.RangeInfo.html",
+          "hash": "EC0RW+NwG4XRYxlenRCeXg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PracaDyplomowa.RouteConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PracaDyplomowa.RouteConfig.html",
+          "hash": "6lxW0EvauoIm8So+wS0Frw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PracaDyplomowa.SiteMaster.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PracaDyplomowa.SiteMaster.html",
+          "hash": "ArOyi2COhwDvWcfaiSJViA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PracaDyplomowa.Site_Mobile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PracaDyplomowa.Site_Mobile.html",
+          "hash": "nlmdz+lohmq1CxSfI0jV9Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PracaDyplomowa.StronaSyslog.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PracaDyplomowa.StronaSyslog.html",
+          "hash": "Qe1YxWHnVxHgpaJPG0+CqA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PracaDyplomowa.Syslog.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PracaDyplomowa.Syslog.html",
+          "hash": "Q4dw2l6Zkj8XLIdo70Hxdw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PracaDyplomowa.ViewSwitcher.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PracaDyplomowa.ViewSwitcher.html",
+          "hash": "QbmtuYajXtFDGYt+4catfA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PracaDyplomowa._StronaGlowna.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PracaDyplomowa._StronaGlowna.html",
+          "hash": "3dHLqXleqisIlPfv/I1szg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PracaDyplomowa.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PracaDyplomowa.html",
+          "hash": "YlY5+BfGGNj8eIa9YEAsTg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "obj/api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "AfufHbWGpaRdLOJdItHioQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "frPdeW5hGroGiyexwMQIhg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build"
+      },
+      "processors": {
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build"
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build"
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build"
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing"
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

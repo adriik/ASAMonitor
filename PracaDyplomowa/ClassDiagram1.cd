@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="PracaDyplomowa.Interfejs">
+    <Position X="11" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAoAAAACAAAAQAgAAAAAAABEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfejs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracaDyplomowa.Ip">
+    <Position X="15" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracaDyplomowa.Ipv6Info">
+    <Position X="13" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>EAAIBAAAAAAAAQACQACAAABAAAABCAAAAgAgAAACgAA=</HashCode>
+      <FileName>Ipv6Info.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracaDyplomowa.Item">
+    <Position X="15.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ACQIAAAgAgAGAKABQBQBAMAIAABEQQgYSAAhACAIAAA=</HashCode>
+      <FileName>Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracaDyplomowa.Komenda">
+    <Position X="13.25" Y="4.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Komenda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracaDyplomowa.Logowanie">
+    <Position X="6" Y="0.5" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAACAAAAAAAAAAABAAAAAAAAGoAAAAAAIAMgAAA=</HashCode>
+      <FileName>Logowanie.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracaDyplomowa.Konsola">
+    <Position X="6" Y="4" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAIAAAAAAAAABAAAAgAAAABAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Konsola.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracaDyplomowa._StronaGlowna">
+    <Position X="3.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAABAABAABAAQAAQAAAAAAAAAAAAAAIEAAA=</HashCode>
+      <FileName>StronaGlowna.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracaDyplomowa.StronaSyslog">
+    <Position X="3.5" Y="4" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABIAAAABAAAAAAAAAJAAAAAAAAAAIEAAA=</HashCode>
+      <FileName>StronaSyslog.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracaDyplomowa.Interpretacja">
+    <Position X="8.5" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAQAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Interpretacja.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracaDyplomowa.RangeInfo">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>RangeInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracaDyplomowa.Syslog">
+    <Position X="11" Y="2.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAgAAAAAAAAAAAAAAAAACAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Syslog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracaDyplomowa.SiteMaster">
+    <Position X="7.75" Y="6.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAACAAAACAAAAAgAAAAAAQAIAAAA=</HashCode>
+      <FileName>Site.Master.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracaDyplomowa.Global">
+    <Position X="5" Y="6.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAABAAAAABAAAAAAAAAAAAAAAAIAAACQACAAAA=</HashCode>
+      <FileName>Global.asax.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracaDyplomowa.About">
+    <Position X="2" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>About.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracaDyplomowa.Klaster">
+    <Position X="3.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAABABQAAAAAAAAAAAAAACAAIAAAA=</HashCode>
+      <FileName>Klaster.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracaDyplomowa.Interfejs2">
+    <Position X="11" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAACAAAAQAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfejs2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracaDyplomowa.Item2">
+    <Position X="13" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAACAKAAQAAAAAAAAABABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Item2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
